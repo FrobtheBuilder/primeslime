@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="mascot.png">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -32,8 +32,8 @@
      showgrid="false"
      inkscape:window-width="1167"
      inkscape:window-height="827"
-     inkscape:window-x="290"
-     inkscape:window-y="145"
+     inkscape:window-x="337"
+     inkscape:window-y="94"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -60,7 +60,7 @@
        sodipodi:nodetypes="cssscsc" />
     <g
        id="g3780"
-       transform="translate(15.5,-0.25)">
+       transform="translate(18.5,3.75)">
       <path
          transform="translate(-1,987.8622)"
          d="M 21.5,37.125 C 21.5,42.026527 20.044925,46 18.25,46 16.455075,46 15,42.026527 15,37.125 c 0,-4.901527 1.455075,-8.875 3.25,-8.875 1.794925,0 3.25,3.973473 3.25,8.875 z"
@@ -84,7 +84,7 @@
     </g>
     <g
        id="g3784"
-       transform="translate(16.5,-0.5)">
+       transform="translate(18.75,3.75)">
       <path
          transform="translate(10.5,987.7372)"
          d="M 21.5,37.125 C 21.5,42.026527 20.044925,46 18.25,46 16.455075,46 15,42.026527 15,37.125 c 0,-4.901527 1.455075,-8.875 3.25,-8.875 1.794925,0 3.25,3.973473 3.25,8.875 z"
